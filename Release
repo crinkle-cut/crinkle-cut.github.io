@@ -1,11 +1,11 @@
-Architectures: iphoneos-arm
-Codename: jellyfish
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: LMA
 Components: main
 Date: Sat, 11 May 2024 04:47:05 +0000
-Description: DESCRIPTION_HERE
+Description: My repo for things
 Label: label
-Origin: origin
-Suite: stable
+Origin: Spritz's repo
+Suite: Spritz's repo
 Version: 1.0
 MD5Sum:
  1e6e0c2f01c8a183a9f7fe95bfd2b484              768 Packages
