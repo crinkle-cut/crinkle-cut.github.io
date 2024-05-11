@@ -12,6 +12,7 @@ SHA1: de9152cee65511b7f5bef113310176d86b74eaac
 SHA256: 8c2910bf2093e0089774bfed3f1f198eafbe5f67546db3924d526877ce2724ec
 SHA512: 2d24b4d8dae01946d2bd507ee20864fd40721b0b10561f038f9a18e118e6da9d89c818f056f594be677461ba73f1639b507cad91e30dc9354bebd7f4c4111b85
 Description: Soothing pastel theme for iOS
+Icon: https://crinkle-cut.github.io/depictions/com.catppuccin.ios/icon.png
 Name: catppuccin
 Author: r58Playz
 
