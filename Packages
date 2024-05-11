@@ -16,17 +16,17 @@ Name: catppuccin
 Author: r58Playz
 
 Package: com.macciti.6god
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 1.1
 Section: Themes (SpringBoard)
 Maintainer: iC <apt@macciti.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debians/com.macciti.6god_1.1_iphoneos-arm.deb
-Size: 3414028
-MD5sum: b799bf124e8e8a78e270bf5a35eee0d0
-SHA1: 30093360e24d098cc833e2064baf47dac2adb41e
-SHA256: f042f5e03210722fffa17e5ed77e2800b8c1ab599cc2bcff113843f0f6f71cbf
-SHA512: a3eeaad85180e04f03f2c170fa3668552ff7db14dd0c898784fa59773c676c0c0ba022ae0b7f80bea25d123cb9558680385489ca59a439cb18aadc120a260dc3
+Filename: ./debians/com.macciti.6god_1.1_iphoneos-arm64.deb
+Size: 3506018
+MD5sum: 592377d6bfaebcff93432e79d97211fa
+SHA1: ce1461658779fd0d5377bec84029ad66dcd65e22
+SHA256: cae3a12d9c071555c91de241404d5a9706c5f3b41d9318b63e69086f6558174d
+SHA512: f1b960cd2c642ed4c91a9f57c4b2e52c7f885e452c20568cac1662c4d5a283920b40ad4aa7899561b6eb5d1cc8426437a2a87a51fd4f90bc890a0742f33df1ce
 Description: iOS 6 on iOS 9
 Name: 6God
 Author: AhmadNagy <ahmad.ios.tweaks@gmail.com>
