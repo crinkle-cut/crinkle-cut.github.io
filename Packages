@@ -15,6 +15,24 @@ Description: Soothing pastel theme for iOS
 Name: catppuccin
 Author: r58Playz
 
+Package: com.macciti.6god
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Themes (SpringBoard)
+Maintainer: iC <apt@macciti.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debians/com.macciti.6god_1.1_iphoneos-arm.deb
+Size: 3414028
+MD5sum: b799bf124e8e8a78e270bf5a35eee0d0
+SHA1: 30093360e24d098cc833e2064baf47dac2adb41e
+SHA256: f042f5e03210722fffa17e5ed77e2800b8c1ab599cc2bcff113843f0f6f71cbf
+SHA512: a3eeaad85180e04f03f2c170fa3668552ff7db14dd0c898784fa59773c676c0c0ba022ae0b7f80bea25d123cb9558680385489ca59a439cb18aadc120a260dc3
+Description: iOS 6 on iOS 9
+Name: 6God
+Author: AhmadNagy <ahmad.ios.tweaks@gmail.com>
+Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
+Depiction: http://www.macciti.com/pages/6god/index.php
+
 Package: com.macciti.classicios
 Architecture: iphoneos-arm64
 Version: 1.2
