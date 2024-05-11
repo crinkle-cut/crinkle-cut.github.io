@@ -4,9 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/uchks/repo.me/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "com.example.sample",
+        "url": "https://i.redd.it/syunfjlnmn8a1.png",
+        "title": "Classic iOS",
+        "package": "com.macciti.classicios",
         "hideShadow": false
     }
   ]
