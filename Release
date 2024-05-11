@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: jellyfish
+Components: main
+Date: Sat, 11 May 2024 04:47:05 +0000
+Description: DESCRIPTION_HERE
+Label: label
+Origin: origin
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 1e6e0c2f01c8a183a9f7fe95bfd2b484              768 Packages
+ 521510163dc1f91bbcaed14977744d92              555 Packages.bz2
+ f87921f37903a303761257e91b401ce6              518 Packages.gz
+ eabf55a21512545f3808f6269f25e2c7              592 Packages.xz
+ 28a49dbccbf1f424572b35526b199cba              520 Packages.zst
+ 6671751363f2dc26c8698b60ef99f33d              188 Release
+SHA1:
+ 0a46afd22748270186e8cac79be8ff2c1795a879              768 Packages
+ f0652681b03ccd722ce24f84a81c6c5fd21c3f60              555 Packages.bz2
+ 08bfff0484dd152751ca3a5d260b079a3571cea9              518 Packages.gz
+ b8bcbc1127759a66436caa29abd520f716a8f9a0              592 Packages.xz
+ c47e858eef7f196b22e6e09bf41e332d9b8e654d              520 Packages.zst
+ 735950662f9156bd909685da7913355baf8c840d              188 Release
+SHA256:
+ 1275b69e2fbeea039eb96cd0fa724b803ede5031ddea565b3c88a4784f423cd9              768 Packages
+ 0517e2aab33253775c4dfb1aac6027c01bb019d436395c9c419862494cf5a458              555 Packages.bz2
+ fdbe6d14b196e6e3edd4363f59754fc76376efcfa1ef240870cf5ac857cc892d              518 Packages.gz
+ dd87a9a952784167cde75cb61caed378168328b7b8d8a4c91909a5e02ae4242f              592 Packages.xz
+ 1b5063409a18314876ef14f0d59927b9db4253b4ed0917366497d8fe12b772c5              520 Packages.zst
+ 2bec14faa83b615d62d117c0ba329fa641c25fa0879302e5483db741323718cb              188 Release
+SHA512:
+ 492aed4a81b53f1b84e7028978619e75fa72b9ff948f1d2dc5d8aade9b832c5d8776a39f2f8ef2721f2e6364babec7470278733b7eb46795480c5e9d4399f140              768 Packages
+ a43e90df31e3c604e5028ee35c93c0698c19adab490bbb4200fbd9bb34aaed82eac7ffef1e7f6cedbdee757dafb6d6eab35f2c34c776878f41985d10a5248a3c              555 Packages.bz2
+ 414ef0696ccb7e590925eef00aeacec47196317804baafb4a5e0821514ff3bd04d0bf5a404737f8e709f4ac4ea3b0e88ce524f52be8fae6c35e75cb140a1e62c              518 Packages.gz
+ a71cd9f1a6e4dae251a36a74a09ea3370a19a4e82a9afab4e3481ad72995cd812ef9ec461fdeafcd7b201128244be7ccf975ef07234a0180fbac9d89f8f48281              592 Packages.xz
+ 7d9fd58ee1cf865504070594668346af81c1f50cb94c72d29caca2d6ebc94dba829abf18dd85ca70cd88eabce8c60ee4d5fe636f22d05bc18e1b14519b68f1e3              520 Packages.zst
+ a3f0ab6525fb62e009fcec56a8f9e73a2fc9f7362e7a667db765e3b1b3c0877f05cd6a15c4c4baa9c688f1fb4a032c3abc1516ad394b1b6dd4983f7920b8b3f2              188 Release

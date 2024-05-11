@@ -1,0 +1,18 @@
+Package: com.macciti.classicios
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Themes (SpringBoard)
+Maintainer: iC <apt@macciti.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debians/com.macciti.classicios_1.2_iphoneos-arm64.deb
+Size: 9715508
+MD5sum: 29eab00977eddcb63a5cd2fa7b970565
+SHA1: 016905fdbef087981cb55f90f30b7edd7a7a77ec
+SHA256: 0a919f5cf685753207cd54e0c59451f8719bfc2925c73958a1b258b42099a88c
+SHA512: d613d1367bf4e962cb775c0412fa6c21807f35affe432d1f98bbc7ee035cca0826c7cf04417376e1b1e73f650fb64e361c9f557a1a0faffb37d43a484e163fd6
+Description: I miss my iPhone 3GS
+Name: Classic iOS
+Author: Axel4 <axel.new46@yahoo.com>
+Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
+Depiction: http://www.macciti.com/pages/classicios/index.php
+
