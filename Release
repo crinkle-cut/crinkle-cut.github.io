@@ -1,8 +1,8 @@
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Codename: jellyfish
 Components: main
-Date: Sat, 11 May 2024 05:37:27 +0000
-Description: my repo
+Date: Sat, 11 May 2024 05:39:46 +0000
+Description: Repo to host tweaks
 Label: label
 Origin: origin
 Suite: stable
@@ -10,28 +10,28 @@ Version: 1.0
 MD5Sum:
  edae7549132c25da7fdb0c499115e3b7             2136 Packages
  220d6367138cb84c18a801c7b2ab1e42             1148 Packages.bz2
- 7ae5dd6632d944f4482de6d2b58b4222             1046 Packages.gz
+ 6ac508691311b8dda0a04b4ccad82443             1046 Packages.gz
  896cd0aba0110f8cf9c2f66e1a3fb945             1112 Packages.xz
  ccdab432b8a3f6da40910b8801ca5406             1044 Packages.zst
- 6333ec3e440ecce1dc5de81adbae999a              179 Release
+ f1276a00f2f7508e9527509629b53c7a              179 Release
 SHA1:
  b25d0aea236434249baad7ec28a32c9f214d0882             2136 Packages
  a89edeedd1aec91101bc09b6941aa4e9bf319ef3             1148 Packages.bz2
- 736a17d6fa0ac5bc0a986b4d9957a30770e790c5             1046 Packages.gz
+ 30479aa011785118a902804c2a59891aeaff9ea7             1046 Packages.gz
  14b3491f7d3bbe31d0a515c154d17634780f22d9             1112 Packages.xz
  d885afa2f21fe4413eb33c83eeb40d36ba6652bb             1044 Packages.zst
- 807e0120a963b455ee1ac09d0916ee18e30e48ba              179 Release
+ c6062388e37f03ba6a8f38c0b86ce865f4774f42              179 Release
 SHA256:
  b388ca7835c618762691940fa1f2420c250e04e8d0d50dca66681f07cdf72382             2136 Packages
  dfafd42f4d48082de7064e2a49bb476d507947b5c20960bdb8b790477ead5b53             1148 Packages.bz2
- 3bb19c1271761b50acde3d317ee3e1e94fd6e7ed39702b9193b1d5a474261772             1046 Packages.gz
+ 29fb0f98a6c582abe2c629d3269b4e004d7541fffb4dac83185840d2245e5093             1046 Packages.gz
  a548d3fbe43dddf4d1f1a1e0fa89b823f63f98bb74420cc415d86267951bb142             1112 Packages.xz
  cad90ee796d5323939690210468c56117017ad6c8dac1f4e2b588350bb153ecc             1044 Packages.zst
- f42259bc160882e851d43873fa1b2e076de0e6f8226f44948a9ed155677dbd50              179 Release
+ 600e309cdf5a6b7ebe936a3451ba2576c0e97204a80f0a06122c0786dc65f86a              179 Release
 SHA512:
  659705beadc8f641849010b1b25e461bf8cbacb016b84392dfb2bb25619150420295ce5542c9854908a20b5515f1746fb1070800a66be1c2004cd2c65d7890fc             2136 Packages
  ac61b6f39cc4784c974db0eef79124258d7578c21d0f1b903c2dcce1cf9e4a5ad09a130dc5357b48c5d2df83c1da2b25c2caa04a4f4656ab2420b063ee4a7e2d             1148 Packages.bz2
- 6ee26dcbad8d8a92bbbb0cffafcb89db3446e5909f7ca76468096ec777001ead897d7fd4b763b733cd684fd3d575de1d1de55df68cce5e51f78acf98269620c9             1046 Packages.gz
+ 17b61cce1efe179538ed61f90009bdc08c6948555b326c9c395170ad0fb08a438545f68687009551be89e1542fcfbd9b0abd29122fb5c07fe959f4666be911be             1046 Packages.gz
  83ae69eb4223e304a51013754954c54411cbfed99972720c12ffc6b076e2c25a6f54cbdcc02b2ccb38d10eba8817f3a70fea2559cd3d54c10bd80606b8c949a5             1112 Packages.xz
  3f6ef930ef89515e9a43b5b69cc62fcabe75c530737375a94335a2c8151dccec3d462cbc170f2291324791f3d99a960eaa5b9a3c5ac286d0bfb4f267927c88d3             1044 Packages.zst
- 9cb7ae3514f586afa63fd272b6b0ae9969942288026cba6f8f56f3f5d83dd7d7d626ea70b849ed400c1511ca4656d52472f9d4c9709414d319a71e38e14a49cd              179 Release
+ d38efe5a7ee8f02551bbd2b087acdf098be9ac70c6b9fbfc5fa0a2df66c73f20026c19a983d352633a65843abe0a44f0dfd90fd5682899b09c36e3f24532ed20              179 Release
