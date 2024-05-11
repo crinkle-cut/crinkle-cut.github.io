@@ -1,37 +1,37 @@
-Architectures: iphoneos-arm iphoneos-arm64
-Codename: LMA
+Architectures: iphoneos-arm
+Codename: jellyfish
 Components: main
-Date: Sat, 11 May 2024 04:47:05 +0000
-Description: my repo for things
+Date: Sat, 11 May 2024 05:18:41 +0000
+Description: my repo
 Label: label
-Origin: spritz's repo
-Suite: spritz's repo
+Origin: origin
+Suite: stable
 Version: 1.0
 MD5Sum:
- 1e6e0c2f01c8a183a9f7fe95bfd2b484              768 Packages
- 521510163dc1f91bbcaed14977744d92              555 Packages.bz2
- f87921f37903a303761257e91b401ce6              518 Packages.gz
- eabf55a21512545f3808f6269f25e2c7              592 Packages.xz
- 28a49dbccbf1f424572b35526b199cba              520 Packages.zst
- 6671751363f2dc26c8698b60ef99f33d              188 Release
+ de9946f6a4449b27ed0f60fa24b57bf1             1384 Packages
+ a31dbe7a5c684296aaf8fc19a1444244              869 Packages.bz2
+ 5b65177ed05722ac17d06c5e45652f0f              808 Packages.gz
+ b4455dabcace5100a6f250b1c0d0478c              880 Packages.xz
+ 8b40e1d2a12fcb3bb187619146dfb8d6              811 Packages.zst
+ fcfc17ef0aa4add8b0c8089612049e31              179 Release
 SHA1:
- 0a46afd22748270186e8cac79be8ff2c1795a879              768 Packages
- f0652681b03ccd722ce24f84a81c6c5fd21c3f60              555 Packages.bz2
- 08bfff0484dd152751ca3a5d260b079a3571cea9              518 Packages.gz
- b8bcbc1127759a66436caa29abd520f716a8f9a0              592 Packages.xz
- c47e858eef7f196b22e6e09bf41e332d9b8e654d              520 Packages.zst
- 735950662f9156bd909685da7913355baf8c840d              188 Release
+ 6c8c267275dbf69a7388446725cc469db54f9367             1384 Packages
+ ce666dd160aee6eb4e29c317ec5e3c9ed16a1b36              869 Packages.bz2
+ 9f66778f2104aa0b28b84706a7d7fc790fc8b909              808 Packages.gz
+ 61dab2ed17a3b88541fd1fc8653312d17dd43296              880 Packages.xz
+ e2cb1a327ae0485f4ddf94ddb5158ae251e49768              811 Packages.zst
+ 3ab1644777c27c08aa446ae57012599224e5ed14              179 Release
 SHA256:
- 1275b69e2fbeea039eb96cd0fa724b803ede5031ddea565b3c88a4784f423cd9              768 Packages
- 0517e2aab33253775c4dfb1aac6027c01bb019d436395c9c419862494cf5a458              555 Packages.bz2
- fdbe6d14b196e6e3edd4363f59754fc76376efcfa1ef240870cf5ac857cc892d              518 Packages.gz
- dd87a9a952784167cde75cb61caed378168328b7b8d8a4c91909a5e02ae4242f              592 Packages.xz
- 1b5063409a18314876ef14f0d59927b9db4253b4ed0917366497d8fe12b772c5              520 Packages.zst
- 2bec14faa83b615d62d117c0ba329fa641c25fa0879302e5483db741323718cb              188 Release
+ 8d455d03228aba73378f7a85ec07c411386b6f4e02ac01ea4b8c9c06ed4ed0a0             1384 Packages
+ 1f2ccef551ab3c15e3d1d5c8bbb767b9f984c54cfe3f6012072dff5f0267e54b              869 Packages.bz2
+ 7e1530280a8d0182058e713ea4b49570d886aa1ff5b4900b3a5599898cee1079              808 Packages.gz
+ 4b98d91973c5b6c3cddc05ab635c25ae9a17f1979beaee409b10c8fedf769e10              880 Packages.xz
+ a4f7ef7484c48268ce191e56d7ec8fbe708b29aff61c4f1676a2959e6c91e02d              811 Packages.zst
+ 597353e78aa2887ecfcb91e1baa828021edc958e1a342636eea8a73ece6d0b6c              179 Release
 SHA512:
- 492aed4a81b53f1b84e7028978619e75fa72b9ff948f1d2dc5d8aade9b832c5d8776a39f2f8ef2721f2e6364babec7470278733b7eb46795480c5e9d4399f140              768 Packages
- a43e90df31e3c604e5028ee35c93c0698c19adab490bbb4200fbd9bb34aaed82eac7ffef1e7f6cedbdee757dafb6d6eab35f2c34c776878f41985d10a5248a3c              555 Packages.bz2
- 414ef0696ccb7e590925eef00aeacec47196317804baafb4a5e0821514ff3bd04d0bf5a404737f8e709f4ac4ea3b0e88ce524f52be8fae6c35e75cb140a1e62c              518 Packages.gz
- a71cd9f1a6e4dae251a36a74a09ea3370a19a4e82a9afab4e3481ad72995cd812ef9ec461fdeafcd7b201128244be7ccf975ef07234a0180fbac9d89f8f48281              592 Packages.xz
- 7d9fd58ee1cf865504070594668346af81c1f50cb94c72d29caca2d6ebc94dba829abf18dd85ca70cd88eabce8c60ee4d5fe636f22d05bc18e1b14519b68f1e3              520 Packages.zst
- a3f0ab6525fb62e009fcec56a8f9e73a2fc9f7362e7a667db765e3b1b3c0877f05cd6a15c4c4baa9c688f1fb4a032c3abc1516ad394b1b6dd4983f7920b8b3f2              188 Release
+ c928a53d05f371786735347ab6e95046f0f74395fb204efa4efe8385b3f22359115fff14fcb0b4d04ce1520337fbe1be5415fb50af41f2341767a3e7f4359924             1384 Packages
+ b3e57e03dd57209579dd40f221e8f1ac5afd22fb39b80c34da526ba57b55aa2e1edf5d1cba7a558305b94863c9398f4239abf96abed9f98e7fe95fa1275fbe05              869 Packages.bz2
+ c79027717f2ea04aa725559eb5efbc77c40250311556524e72c670b8416ff046e24097ac80280b75da7aef5404ba21a71755b5c6f7612274fd762921b5e961f5              808 Packages.gz
+ 6b1305fffefb0f7a50e0220157bc8cac1bc2f93a49114bb479c498ac9bf01da67ea99cd611e02981d2c938eba60463f4ab9c80ab94e1ee08c7be0e1902c979dd              880 Packages.xz
+ 3ad016f8f1a589d0289de2beb48256b6edc241471fb786a68ee5a805fc16f8c0d1adf459ec8cb83eb0f2e15e598fa413e0d51e9df7310665cce67c3a731a9e70              811 Packages.zst
+ 7034e1d2e10918a0469a317a9c460e5f16e4ab8a172e8a6f7105dd9eceb47d7c7da7b352bd145b1ff3f51f247b16d6ec5d0ee6bbbffbb49feddd576ef0e40cd7              179 Release

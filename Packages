@@ -1,3 +1,20 @@
+Package: com.catppuccin.ios
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: r58Playz
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.catppuccin.ios_0.0.1_iphoneos-arm.deb
+Size: 82846
+MD5sum: d55912a6656d46520996cfc4604ab75e
+SHA1: 75690bbb024004af15691febcb3cafd1517f3677
+SHA256: 6fb1926a30bef0d232d498b394fb4a726bdbd091bb29a0cff51a27ec326c7699
+SHA512: 38b3ecb17a8ed93f8154de39851e26c7f646db21b969629ec0c12e6c80bfe4856242f62118eb6629faf67a8ecb12ac13866a1d7f5dacb3b4e0e327e51b7a8f90
+Description: Soothing pastel theme for iOS
+Name: catppuccin
+Author: r58Playz
+
 Package: com.macciti.classicios
 Architecture: iphoneos-arm64
 Version: 1.2
